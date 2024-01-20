@@ -1,3 +1,4 @@
 export class CreateUserDto{
-    name: String
+    name: String;
+    email: String;
 }
